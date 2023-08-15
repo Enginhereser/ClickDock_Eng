@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//span[@class=\"text-highlight\"][contains(.,\"Dr. Peter Test\")])[1]\"}\n  (Session info: chrome=115.0.5790.170)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00007FF6C4864A62+57106]\n\t(No symbol) [0x00007FF6C47DCF52]\n\t(No symbol) [0x00007FF6C46AE2CB]\n\t(No symbol) [0x00007FF6C46E786E]\n\t(No symbol) [0x00007FF6C46E795C]\n\t(No symbol) [0x00007FF6C4720477]\n\t(No symbol) [0x00007FF6C47069FF]\n\t(No symbol) [0x00007FF6C471E522]\n\t(No symbol) [0x00007FF6C4706793]\n\t(No symbol) [0x00007FF6C46DCE81]\n\t(No symbol) [0x00007FF6C46DE064]\n\tGetHandleVerifier [0x00007FF6C4B14222+2873042]\n\tGetHandleVerifier [0x00007FF6C4B66590+3209792]\n\tGetHandleVerifier [0x00007FF6C4B5F3AF+3180639]\n\tGetHandleVerifier [0x00007FF6C48F5F25+652245]\n\t(No symbol) [0x00007FF6C47E8618]\n\t(No symbol) [0x00007FF6C47E47C4]\n\t(No symbol) [0x00007FF6C47E48BC]\n\t(No symbol) [0x00007FF6C47D4C33]\n\tBaseThreadInitThunk [0x00007FFC4BBE7614+20]\n\tRtlUserThreadStart [0x00007FFC4C1A26B1+33]\n"
+}

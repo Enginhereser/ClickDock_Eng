@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div//div[@class=\"location-info-container\"]//a//p[text()=\" 56564 Neuwied \"]"
+}

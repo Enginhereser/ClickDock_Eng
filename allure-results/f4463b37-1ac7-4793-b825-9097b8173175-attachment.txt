@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//span[@class=\"text-highlight\"][contains(.,\"Dr. Peter Test\")])[1]"
+}

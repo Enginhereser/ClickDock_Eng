@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div//button[text()=\" Alle akzeptieren \"]\"}\n  (Session info: chrome=115.0.5790.170)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00007FF69B094A62+57106]\n\t(No symbol) [0x00007FF69B00CF52]\n\t(No symbol) [0x00007FF69AEDE2CB]\n\t(No symbol) [0x00007FF69AF1786E]\n\t(No symbol) [0x00007FF69AF1795C]\n\t(No symbol) [0x00007FF69AF50477]\n\t(No symbol) [0x00007FF69AF369FF]\n\t(No symbol) [0x00007FF69AF4E522]\n\t(No symbol) [0x00007FF69AF36793]\n\t(No symbol) [0x00007FF69AF0CE81]\n\t(No symbol) [0x00007FF69AF0E064]\n\tGetHandleVerifier [0x00007FF69B344222+2873042]\n\tGetHandleVerifier [0x00007FF69B396590+3209792]\n\tGetHandleVerifier [0x00007FF69B38F3AF+3180639]\n\tGetHandleVerifier [0x00007FF69B125F25+652245]\n\t(No symbol) [0x00007FF69B018618]\n\t(No symbol) [0x00007FF69B0147C4]\n\t(No symbol) [0x00007FF69B0148BC]\n\t(No symbol) [0x00007FF69B004C33]\n\tBaseThreadInitThunk [0x00007FFC4BBE7614+20]\n\tRtlUserThreadStart [0x00007FFC4C1A26B1+33]\n"
+}

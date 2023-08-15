@@ -1,0 +1,1 @@
+[{"uid":"39b09bdc965f3dfd","name":"should validate the drname an adress","time":{"start":1691995227322,"stop":1691995231501,"duration":4179},"status":"passed","severity":"normal"},{"uid":"c1f6762c1c4f6be8","name":"should login with valid credentials","time":{"start":1691995216198,"stop":1691995227250,"duration":11052},"status":"passed","severity":"normal"}]
