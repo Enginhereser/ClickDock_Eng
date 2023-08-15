@@ -20,4 +20,22 @@ describe('assertion', () => {
 
     })
 })
+/*describe('assertion', () => {
+    it('should validate timesheet', async () => {
+        await browser.scroll(0, 200);
 
+        const currentTimeSheet = await SecurePage.getCurrentTimeSheet();
+        switch (currentTimeSheet) {
+            case '14:00 Uhr - 18:00 Uhr':
+                await expect(SecurePage.morning).toBeExisting();
+                break;
+            case '14:00 Uhr - 18:00 Uhr':
+                await expect(SecurePage.afternoon).toBeExisting();
+                break;
+            
+            default:
+                false;
+                break;
+        }
+    });
+});*/
